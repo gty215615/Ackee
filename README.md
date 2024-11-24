@@ -13,7 +13,7 @@ Self-hosted, Node.js based analytics tool for those who care about privacy. Acke
 <br/>
 
 ![Ackee in a browser](https://s.electerious.com/images/ackee/readme.png)
-
+ 
 </div>
 
 ## 👋 Introduction
